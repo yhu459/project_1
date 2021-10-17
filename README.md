@@ -1,1 +1,1 @@
-# project_1
+# ITM 362 Project 1
