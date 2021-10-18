@@ -11,8 +11,11 @@ html {
 h1{
   background-color: rgb(255, 226, 60);
   padding: 1em;
-  font-size: 3em;
+  font-size: 2em;
   text-align: center;
 }
 
-
+label {
+  display: block;
+  width: 100%;
+}
