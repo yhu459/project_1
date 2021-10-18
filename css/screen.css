@@ -10,8 +10,8 @@ html {
 
 h1{
   background-color: rgb(255, 226, 60);
-  padding: 1em 0 1em 0;
-  font-size: 2em;
+  padding: 1em 0 1em 0; /* 44px*/
+  font-size: 2em; /* 44px */
   text-align: center;
   width: 100%;
 }
@@ -26,6 +26,12 @@ label {
 #email, #name {
   border: none;
   width: 100%;
-  padding: 1em 0 1em 0;
+  padding: 1em 0 1em 0; /* 22px 0 22px 0*/
   background-color: rgb(192, 190, 190);
+}
+
+#signup {
+   width: 100%;
+   font-size: 1em; /* 22px */
+   padding: 0.75em; /* 16.5px */
 }
