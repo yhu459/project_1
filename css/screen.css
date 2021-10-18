@@ -10,18 +10,22 @@ html {
 
 h1{
   background-color: rgb(255, 226, 60);
-  padding: 1em;
+  padding: 1em 0 1em 0;
   font-size: 2em;
   text-align: center;
+  width: 100%;
 }
-
+div{ 
+  width: 100%;
+}
 label {
   display: block;
   width: 100%;
 }
 
 #email, #name {
+  border: none;
   width: 100%;
-  padding: 1em;
+  padding: 1em 0 1em 0;
   background-color: rgb(192, 190, 190);
 }
