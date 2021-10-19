@@ -16,6 +16,7 @@ h1{
   font-size: 2em; /* 44px */
   text-align: center;
   width: 100%;
+  font-weight: bold;
 }
 
 #email, #name, #birthday {
