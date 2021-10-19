@@ -15,15 +15,8 @@ h1{
   text-align: center;
   width: 100%;
 }
-div{ 
-  width: 100%;
-}
-label {
-  display: block;
-  width: 100%;
-}
 
-#email, #name {
+#email, #name, #birthday {
   border: none;
   width: 100%;
   padding: 1em 0 1em 0; /* 22px 0 22px 0*/
