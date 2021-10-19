@@ -47,3 +47,8 @@ div {
 .centerText {
   text-align: center;
 }
+
+label {
+  font-size: 1.2em; /* ~26px */
+}
+
