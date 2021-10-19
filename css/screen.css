@@ -25,12 +25,12 @@ h1{
   padding: 1em 0 1em 0em; /* 22px 0 22px 0*/
   background-color: rgb(192, 190, 190);
   color:rgb(70, 70, 70);
-  text-indent: 0.5em;
+  text-indent: 0.5em; /* 11px */
 }
 
 div {
-  text-indent: 0.5em;
-  padding-top: 0.5em;
+  text-indent: 0.5em; /* 11px */
+  padding-top: 0.5em; /* 11px */
 }
 ::placeholder {
   color:rgb(70, 70, 70);
