@@ -43,3 +43,7 @@ div {
    background-color: rgb(255, 226, 60);
    border: 2px solid black;
 }
+
+.centerText {
+  text-align: center;
+}
