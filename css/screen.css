@@ -42,6 +42,7 @@ div {
    padding: 1em; /* 16.5px */
    background-color: rgb(255, 226, 60);
    border: 2px solid black;
+   margin-top: 0.5em;
 }
 
 .centerText {
@@ -73,7 +74,7 @@ label {
   #signup {
     width: 80%;
     display: block;
-    margin: 0 auto;
+    margin: 0.5em auto;
   }
 
   label {
