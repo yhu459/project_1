@@ -37,7 +37,8 @@ div {
 
 #signup {
    width: 100%;
-   font-size: 1em; /* 22px */
-   padding: 0.75em; /* 16.5px */
+   font-size: 1.5em; /* 22px */
+   padding: 1em; /* 16.5px */
    background-color: rgb(255, 226, 60);
+   border: 2px solid black;
 }
