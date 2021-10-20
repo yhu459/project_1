@@ -52,7 +52,6 @@ div {
 
 label {
   font-size: 1.2em; /* ~26px */
-  padding-left: em;
 }
 
 @media screen and (min-width: 600px){
