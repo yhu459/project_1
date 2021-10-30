@@ -22,11 +22,12 @@ h1{
 
 #email, #name, #birthday {
   border: none;
-  width: 100%;
+  width: 95%;
   padding: 1em 0 1em 0em; /* 22px 0 22px 0*/
   background-color: rgb(255, 255, 255);
   color:rgb(70, 70, 70);
   text-indent: 0.5em; /* 11px */
+  margin-left: 0.5em; /* 11px */
 }
 
 div {
@@ -52,6 +53,11 @@ div {
 
 label {
   font-size: 1.2em; /* ~26px */
+}
+
+#agreement-input {
+  width: 95%;
+  margin: 0 auto;
 }
 
 @media screen and (min-width: 600px){
