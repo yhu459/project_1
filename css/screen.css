@@ -12,9 +12,9 @@ html {
 
 h1{
   background-color: rgb(255, 252, 65);
-  line-height: 1em; /* ~26px */
-  padding: 1em 0 1em 0; /* 44px*/
-  font-size: 2em; /* 44px */
+  line-height: 1em; /* ~22px */
+  padding: 0.8em 0 0.8em 0; /* 17.6px*/
+  font-size: 2.5em; /* 55px */
   text-align: center;
   width: 100%;
   font-weight: bold;
@@ -40,8 +40,8 @@ div {
 
 #signup {
    width: 100%;
-   font-size: 1.5em; /* 22px */
-   padding: 1em; /* 16.5px */
+   font-size: 2em; /* ~30px */
+   padding: 0.8em; /* 13.2px */
    background-color: rgb(255, 252, 65);
    border: 2px solid black;
    margin-top: 0.5em; /* 11px */
